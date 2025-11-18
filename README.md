@@ -1,7 +1,7 @@
 # The AI Truth Integrity Framework 
 Why Emotion-Aware AI Must Never Be Allowed to Lie
 
-This repository contains the official whitepaper introducing the AI Truth Integrity Framework™ — a 5-layer architecture designed to prevent emotional falsehoods, bias-driven fabrication, and protective lying within advanced AI models.
+This repository contains the official whitepaper introducing the AI Truth Integrity Framework a 5-layer architecture designed to prevent emotional falsehoods, bias-driven fabrication, and protective lying within advanced AI models.
 
 ## Files
 - 📄 Whitepaper (PDF)
